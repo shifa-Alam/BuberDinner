@@ -1,0 +1,9 @@
+@host= https://localhost:7016
+POST {{host}}/auth/login
+Content-Type: application/json; charset=utf-8;
+
+{
+
+    "email":"shifa.cse70@gmail.com",
+    "password":"Alam123"
+}
