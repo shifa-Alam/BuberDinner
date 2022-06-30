@@ -28,3 +28,7 @@ D:\dotNetProject\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Contra
 D:\dotNetProject\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Application.pdb
 D:\dotNetProject\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infrastructure.pdb
 D:\dotNetProject\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Domain.pdb
+D:\dotNetProject\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\dotNetProject\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotNetProject\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\dotNetProject\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
