@@ -28,3 +28,12 @@ D:\dotNetProject\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Contra
 D:\dotNetProject\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Application.pdb
 D:\dotNetProject\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infrastructure.pdb
 D:\dotNetProject\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Domain.pdb
+C:\Users\test\Desktop\work\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.csproj.AssemblyReference.cache
+C:\Users\test\Desktop\work\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\Desktop\work\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.AssemblyInfoInputs.cache
+C:\Users\test\Desktop\work\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.AssemblyInfo.cs
+C:\Users\test\Desktop\work\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\work\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\test\Desktop\work\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.dll
+C:\Users\test\Desktop\work\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\refint\BuberDinner.Api.dll
+C:\Users\test\Desktop\work\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.pdb

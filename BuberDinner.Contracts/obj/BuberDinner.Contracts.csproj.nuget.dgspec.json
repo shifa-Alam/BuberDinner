@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotNetProject\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {}
+    "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {}
   },
   "projects": {
-    "D:\\dotNetProject\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+    "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "projectName": "BuberDinner.Contracts",
-        "projectPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
-        "packagesPath": "C:\\Users\\shifa\\.nuget\\packages\\",
-        "outputPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\test\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

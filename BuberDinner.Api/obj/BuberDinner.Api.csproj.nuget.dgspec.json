@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotNetProject\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {}
+    "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {}
   },
   "projects": {
-    "D:\\dotNetProject\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {
+    "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+        "projectUniqueName": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
         "projectName": "BuberDinner.Api",
-        "projectPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
-        "packagesPath": "C:\\Users\\shifa\\.nuget\\packages\\",
-        "outputPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Api\\obj\\",
+        "projectPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+        "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\test\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,14 +28,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\dotNetProject\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-                "projectPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+              "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+                "projectPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
               },
-              "D:\\dotNetProject\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
-                "projectPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
+              "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+                "projectPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
               },
-              "D:\\dotNetProject\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
-                "projectPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
+              "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
               }
             }
           }
@@ -67,21 +67,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\dotNetProject\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+    "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectUniqueName": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "projectName": "BuberDinner.Application",
-        "projectPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
-        "packagesPath": "C:\\Users\\shifa\\.nuget\\packages\\",
-        "outputPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Application\\obj\\",
+        "projectPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\test\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,8 +95,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\dotNetProject\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
-                "projectPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
+              "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+                "projectPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
               }
             }
           }
@@ -131,21 +131,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\dotNetProject\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+    "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "projectName": "BuberDinner.Contracts",
-        "projectPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
-        "packagesPath": "C:\\Users\\shifa\\.nuget\\packages\\",
-        "outputPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\test\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -185,21 +185,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\dotNetProject\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+    "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "projectName": "BuberDinner.Domain",
-        "projectPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
-        "packagesPath": "C:\\Users\\shifa\\.nuget\\packages\\",
-        "outputPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Domain\\obj\\",
+        "projectPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\test\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -239,21 +239,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\dotNetProject\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+    "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
         "projectName": "BuberDinner.Infrastructure",
-        "projectPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\shifa\\.nuget\\packages\\",
-        "outputPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\test\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -267,8 +267,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\dotNetProject\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-                "projectPath": "D:\\dotNetProject\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+              "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+                "projectPath": "C:\\Users\\test\\Desktop\\work\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
               }
             }
           }
@@ -303,7 +303,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
